@@ -1,8 +1,7 @@
-# botstrap-4-gulp-sass-starter
-Botstrap 4 Gulp SASS Starter
+# Botstrap 4 Gulp SASS Starter
 
 
-<h1>Process 1:</h1>
+## Process 1:
 
 
 	@ npm init
@@ -15,13 +14,13 @@ Botstrap 4 Gulp SASS Starter
 	@ gulp
 
 
-<h1>Process 2 (Existing Download):</h1>
+## Process 2 (Existing Download):
 
 
 	@ npm install
 	@ npm start
 	
-<h1>Run Existing Project:</h1>
+## Run Existing Project:
 
 
 	change package.json line 7
